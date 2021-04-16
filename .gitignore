@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# VS files
+.vscode
+*.sln
+*.vcxproj
+*.vcxproj.filters
+.vs/
+*.vcxproj.user
+
+# CMake intermediate files
+CMakeFiles
+Debug
+Release
+Win32
+CMakeCache.txt
+cmake_install.cmake
